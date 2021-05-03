@@ -1,6 +1,6 @@
-# Frog.ism
+# <h1 align="center"> Frog.ism </h1>
 
-<h1 align="center"> Frog.ism </h1>
+
 Game developed at Mini Jam 79: Frogs
 This Jam was a 72-hour-long game developement, and need to respect the limitation: just one level
 
