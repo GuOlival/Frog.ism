@@ -1,0 +1,932 @@
+fileFormatVersion: 2
+guid: 9b9b7aff0808afb4ca39fd632255eb82
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5685182696466116942
+    second: PC Computer - Loop Hero - Frog King-sheet_0
+  - first:
+      213: -5347700074347849934
+    second: PC Computer - Loop Hero - Frog King-sheet_1
+  - first:
+      213: -1396648070374229966
+    second: PC Computer - Loop Hero - Frog King-sheet_2
+  - first:
+      213: -7801798059203015431
+    second: PC Computer - Loop Hero - Frog King-sheet_3
+  - first:
+      213: 7034792821573715176
+    second: PC Computer - Loop Hero - Frog King-sheet_4
+  - first:
+      213: -4679291734416435529
+    second: PC Computer - Loop Hero - Frog King-sheet_5
+  - first:
+      213: -7464017186660528994
+    second: PC Computer - Loop Hero - Frog King-sheet_6
+  - first:
+      213: -4752368971935724625
+    second: PC Computer - Loop Hero - Frog King-sheet_7
+  - first:
+      213: 5836230646250634675
+    second: PC Computer - Loop Hero - Frog King-sheet_8
+  - first:
+      213: 5561607711515170211
+    second: PC Computer - Loop Hero - Frog King-sheet_9
+  - first:
+      213: -8730947099110371617
+    second: PC Computer - Loop Hero - Frog King-sheet_10
+  - first:
+      213: -8838734896027535611
+    second: PC Computer - Loop Hero - Frog King-sheet_11
+  - first:
+      213: 3730431635982604874
+    second: PC Computer - Loop Hero - Frog King-sheet_12
+  - first:
+      213: 1076400095423599530
+    second: PC Computer - Loop Hero - Frog King-sheet_13
+  - first:
+      213: 8760744540466145459
+    second: PC Computer - Loop Hero - Frog King-sheet_14
+  - first:
+      213: -7120113171838135599
+    second: PC Computer - Loop Hero - Frog King-sheet_15
+  - first:
+      213: 1618824343175863093
+    second: PC Computer - Loop Hero - Frog King-sheet_16
+  - first:
+      213: -8693225457520176233
+    second: PC Computer - Loop Hero - Frog King-sheet_17
+  - first:
+      213: 8501387159185494773
+    second: PC Computer - Loop Hero - Frog King-sheet_18
+  - first:
+      213: 9175528020665077907
+    second: PC Computer - Loop Hero - Frog King-sheet_19
+  - first:
+      213: -2716610172220028096
+    second: PC Computer - Loop Hero - Frog King-sheet_20
+  - first:
+      213: 4908310216352931918
+    second: PC Computer - Loop Hero - Frog King-sheet_21
+  - first:
+      213: 7303973092295357416
+    second: PC Computer - Loop Hero - Frog King-sheet_22
+  - first:
+      213: 6923366157273409871
+    second: PC Computer - Loop Hero - Frog King-sheet_23
+  - first:
+      213: -3236694077919069358
+    second: PC Computer - Loop Hero - Frog King-sheet_24
+  - first:
+      213: 813708514421322705
+    second: PC Computer - Loop Hero - Frog King-sheet_25
+  - first:
+      213: -8346700820688959962
+    second: PC Computer - Loop Hero - Frog King-sheet_26
+  - first:
+      213: 8983332915602258650
+    second: PC Computer - Loop Hero - Frog King-sheet_27
+  - first:
+      213: 9182861501464402866
+    second: PC Computer - Loop Hero - Frog King-sheet_28
+  - first:
+      213: -355994648037783749
+    second: PC Computer - Loop Hero - Frog King-sheet_29
+  - first:
+      213: -37283080487225189
+    second: PC Computer - Loop Hero - Frog King-sheet_30
+  - first:
+      213: -2848658245792718848
+    second: PC Computer - Loop Hero - Frog King-sheet_31
+  - first:
+      213: 5690299266888865905
+    second: PC Computer - Loop Hero - Frog King-sheet_32
+  - first:
+      213: -5212198092854221793
+    second: PC Computer - Loop Hero - Frog King-sheet_33
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Loop Hero - Frog King-sheet_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 254
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e417f028a83d5ee40800000000000000
+      internalID: 5685182696466116942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Loop Hero - Frog King-sheet_1
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 254
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2379a2f9d1729c5b0800000000000000
+      internalID: -5347700074347849934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Loop Hero - Frog King-sheet_2
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 213
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 238fb11dafb1e9ce0800000000000000
+      internalID: -1396648070374229966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Loop Hero - Frog King-sheet_3
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 201
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fc4fd730027ab390800000000000000
+      internalID: -7801798059203015431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Loop Hero - Frog King-sheet_4
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 201
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e48e5e9cca90a160800000000000000
+      internalID: 7034792821573715176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Loop Hero - Frog King-sheet_5
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 201
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b6dfa1a5f0df0fb0800000000000000
+      internalID: -4679291734416435529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Loop Hero - Frog King-sheet_6
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 199
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9c40bf2aeb7a6890800000000000000
+      internalID: -7464017186660528994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Loop Hero - Frog King-sheet_7
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 201
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fabce2269913c0eb0800000000000000
+      internalID: -4752368971935724625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Loop Hero - Frog King-sheet_8
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 160
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bd7401e9d47ef050800000000000000
+      internalID: 5836230646250634675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Loop Hero - Frog King-sheet_9
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 148
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a55fe83fbcce2d40800000000000000
+      internalID: 5561607711515170211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Loop Hero - Frog King-sheet_10
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 148
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fde8cc43fd175d680800000000000000
+      internalID: -8730947099110371617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Loop Hero - Frog King-sheet_11
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 148
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 507fd621171865580800000000000000
+      internalID: -8838734896027535611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Loop Hero - Frog King-sheet_12
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 148
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4a5f99eec725c330800000000000000
+      internalID: 3730431635982604874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Loop Hero - Frog King-sheet_13
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 107
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa39beb0f2420fe00800000000000000
+      internalID: 1076400095423599530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Loop Hero - Frog King-sheet_14
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 107
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b86d6e3eba649970800000000000000
+      internalID: 8760744540466145459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Loop Hero - Frog King-sheet_15
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 107
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d212005bc6403d90800000000000000
+      internalID: -7120113171838135599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Loop Hero - Frog King-sheet_16
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 107
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53b90c8c928377610800000000000000
+      internalID: 1618824343175863093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Loop Hero - Frog King-sheet_17
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 95
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 793902c41857b5780800000000000000
+      internalID: -8693225457520176233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Loop Hero - Frog King-sheet_18
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 95
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f29159349efaf570800000000000000
+      internalID: 8501387159185494773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Loop Hero - Frog King-sheet_19
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 54
+        width: 42
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 390926aee16065f70800000000000000
+      internalID: 9175528020665077907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Loop Hero - Frog King-sheet_20
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 54
+        width: 41
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04bcc9b0179ac4ad0800000000000000
+      internalID: -2716610172220028096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Loop Hero - Frog King-sheet_21
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 54
+        width: 41
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e40232de222dd1440800000000000000
+      internalID: 4908310216352931918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Loop Hero - Frog King-sheet_22
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 54
+        width: 41
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e3b64f44dcec5560800000000000000
+      internalID: 7303973092295357416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Loop Hero - Frog King-sheet_23
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 42
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f492e36a6dcb41060800000000000000
+      internalID: 6923366157273409871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Loop Hero - Frog King-sheet_24
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 42
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25bf50782e3f413d0800000000000000
+      internalID: -3236694077919069358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Loop Hero - Frog King-sheet_25
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 42
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d33bc8259fda4b00800000000000000
+      internalID: 813708514421322705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Loop Hero - Frog King-sheet_26
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 42
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6268f5883df8a2c80800000000000000
+      internalID: -8346700820688959962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Loop Hero - Frog King-sheet_27
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1
+        width: 41
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adafb85e0b53bac70800000000000000
+      internalID: 8983332915602258650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Loop Hero - Frog King-sheet_28
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 1
+        width: 41
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bb5568f1e3107f70800000000000000
+      internalID: 9182861501464402866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Loop Hero - Frog King-sheet_29
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 1
+        width: 41
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3784c5f0c04f0bf0800000000000000
+      internalID: -355994648037783749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Loop Hero - Frog King-sheet_30
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 1
+        width: 41
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b983d6f5c3b8b7ff0800000000000000
+      internalID: -37283080487225189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Loop Hero - Frog King-sheet_31
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 1
+        width: 55
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 000a9051b688778d0800000000000000
+      internalID: -2848658245792718848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Loop Hero - Frog King-sheet_32
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 1
+        width: 55
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1789394e80108fe40800000000000000
+      internalID: 5690299266888865905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Loop Hero - Frog King-sheet_33
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 1
+        width: 55
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f14a470337d8aa7b0800000000000000
+      internalID: -5212198092854221793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
